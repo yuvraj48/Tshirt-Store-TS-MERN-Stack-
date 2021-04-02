@@ -1,0 +1,58 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+html { height: 100%;overflow-x: hidden; }
+
+body {
+  background: #343a40;
+  margin:0;
+  padding:0;
+  position:relative; 
+ padding-bottom:25%;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+.signup{
+  color:rgba(245, 245, 245, 0.808)
+}
+.signupb{
+  color:rgba(255, 255, 255, 0.342)
+}
+.signupt{
+  
+  border-style:ridge;
+  border-color:rgba(128, 128, 128, 0.233);
+  border-width: thin;
+  margin-top:5%;
+  
+  
+}
+  
+.signupC{
+  text-align: center;
+}
+
+.loginh{
+ 
+  color:rgba(255, 255, 255, 0.301);
+  margin:0
+}
+.loginp{
+  color:rgba(128, 128, 128, 0.377);
+  margin:0
+}
+
+ .footer {
+  display:flex;
+  position: absolute; 
+  left: 0 ; right: 0; bottom: 0; 
+  background-color:#28a745;
+    
+
+  
+} 
+.colo{
+  color:#FFE67C;
+}
